@@ -1,0 +1,55 @@
+﻿
+item.BirchDoor.name=Birch Door
+item.JungleDoor.name=Jungle Door
+item.PineDoor.name=Pine Door
+item.ScreenDoor.name=Screen Door
+item.RedwoodDoor.name=Redwood Door
+item.WoodDoor01.name=Wood Door 01
+item.WoodDoor02.name=Wood Door 02
+item.WoodDoor03.name=Wood Door 03
+
+item.GlassDoor.name=Glass Door
+item.SteelDoor.name=Steel Door
+item.GoldDoor.name=Gold Door
+item.ObsidianDoor.name=Obsidian Door
+item.DiamondDoor.name=Diamond Door
+item.IronDoor01.name=Iron Door 01
+item.IronDoor02.name=Iron Door 02
+item.IronDoor03.name=Iron Door 03
+
+tile.TrapDoor 1.name=TrapDoor 01
+tile.TrapDoor 2.name=TrapDoor 02
+tile.TrapDoor 3.name=TrapDoor 03
+tile.TrapDoor BlastProof.name=BlastProof TrapDoor
+
+tile.Timer Button 1m.name=Timer Button 60s
+tile.Timer Button 20s.name=Timer Button 20s
+tile.Timer Button 10s.name=Timer Button 10s
+tile.Timer Button 05s.name=Timer Button 05s
+
+tile.TimerPad.name=Timer Pad
+tile.HiddenTimerPad.name=Hidden Timer Pad
+tile.HiddenPressurePlate.name=Hidden Pressure Plate
+tile.HiddenItemPlate.name=Hidden Item Plate
+
+tile.LightBlocks01idle.name=Light Block 01
+tile.LightBlocks02idle.name=Light Block 02
+tile.LightBlocks03idle.name=Light Block 03
+tile.LightBlocks04idle.name=Light Block 04
+tile.LightBlocks05idle.name=Light Block 05
+tile.LightBlocks06idle.name=Light Block 06
+tile.LightBlocks07idle.name=Light Block 07
+tile.LightBlocks08idle.name=Light Block 08
+
+tile.SwapBlock01idle.name=Swap Block 01
+tile.SwapBlock02idle.name=Swap Block 02
+tile.SwapBlock03idle.name=Swap Block 03
+tile.SwapBlock04idle.name=Swap Block 04
+tile.SwapBlock05idle.name=Swap Block 05
+tile.SwapBlock06idle.name=Swap Block 06
+tile.SwapBlock07idle.name=Swap Block 07
+tile.SwapBlock08idle.name=Swap Block 08
+
+tile.WallSwitch.name=Wall Switch
+
+item.SonicScrewdriver2.name=Sonic Screwdriver 02
